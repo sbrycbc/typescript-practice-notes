@@ -1,3 +1,5 @@
+  *** TypeScript Starting ***
+
 TypeScript ist eine von Microsoft entwickelte Programmiersprache und eine erweiterte Version von JavaScript. Sie enthält einen Compiler, der es ermöglicht, TypeScript-Projekte in JavaScript umzuwandeln. Sie können den TypeScript-Compiler gemäß den folgenden Schritten installieren:
 
 1- Node.js Installation:
