@@ -12,7 +12,7 @@ document.body.appendChild(h1) */
     console.log(
         reservedText(15)) */
 
-
+/* 
 interface Product {
     id:number,
     name:string,
@@ -36,4 +36,30 @@ const product = getProduct(1)
 
 console.log(product);
 
-product
+product */
+
+
+
+let fullName: string = 'Sabriye';
+let age: number = 25;
+let active: boolean = true;
+
+const names: string[] = ['ali','veli', 'gölge', ]
+
+let user : {
+    name: string;
+    surname: string;
+    age: number;
+}
+
+user = {
+    name: 'Sbry',
+    surname: 'cbc',
+    age:25
+}
+
+let multiplay: ( x:number, y:number)=> number
+
+multiplay = (x,y)=> x*y
+
+console.log(multiplay(4,5));
