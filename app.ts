@@ -63,3 +63,21 @@ let multiplay: ( x:number, y:number)=> number
 multiplay = (x,y)=> x*y
 
 console.log(multiplay(4,5));
+
+
+let number = 0
+
+number = 'sbry' // I cannot give a string value because I have specified the type as number.
+
+function increment(counter: number) : number {
+    return counter++;
+}
+
+let items = [1, 2, 3,]
+
+items.push('sbry');
+
+
+document.addEventListener('click', function (event) {
+    console.log(event.button); // 
+});
